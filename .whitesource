@@ -1,7 +1,3 @@
 {
-  "settingsInheritedFrom": "tabacmend-up-sandbox/whitesource-config@main",
-  "scanSettings": {
-    "enableReachability": true,
-    "exploitability": true
-}
+  "settingsInheritedFrom": "amaybaum-dev/whitesource-config@main",
 }
