@@ -24,7 +24,7 @@
     "@angular/localize": "18.0.1",
     "@angular/platform-browser": "18.0.1",
     "@angular/platform-browser-dynamic": "18.0.1",
-    "@angular/platform-server": "18.0.1",
+    "@angular/platform-server": "18.2.14",
     "@angular/router": "18.0.1",
     "@egjs/hammerjs": "2.0.17",
     "@floating-ui/dom": "^1.6.5",
